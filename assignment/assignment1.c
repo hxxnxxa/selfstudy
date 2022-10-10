@@ -18,11 +18,12 @@ end
 */ 
 
 int main(void) {
-    int x;
-    int y;
+    int x = 1000;
+    int y = 1000;
     int z = 0;
     int u = x;
     int v = y;
+    int count = 1;
 
     int tmp1 = z + u * v;
     int tmp2 = x * y;
@@ -33,12 +34,16 @@ int main(void) {
     tmp1 = tmp2;
     
     do{
+        printf("count: %d\n",count);
+        printf("u: %d\n",u);
+        printf("v: %d\n",v);
         if(u%2==1) {
             z = z + v;
             printf("z: %d\n",z);
         }
         u = u/2;
         v = v*2;
+        count = count + 1;
     } while(u>0);
 
     z = x * y;
