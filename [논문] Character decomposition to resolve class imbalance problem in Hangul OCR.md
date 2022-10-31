@@ -1,5 +1,6 @@
+<div align='center'>
 <h1>Character decomposition to resolve class imbalance problem in Hangul OCR 논문리뷰</h1>
-
+</div>
 
 <h3>Author</h3>
 <li>현대자동차</li> 
