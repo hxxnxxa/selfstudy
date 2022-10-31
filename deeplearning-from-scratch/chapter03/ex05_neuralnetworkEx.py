@@ -1,7 +1,5 @@
 '''
-
             3층 신경망 구현하기
-
 '''
 
 import numpy as np
