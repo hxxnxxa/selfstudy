@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Character decomposition to resolve class imbalance problem in Hangul OCR 논문리뷰</h1>
+<h1>Character decomposition to resolve class imbalance problem in Hangul OCR</h1>
 </div>
 
 <h3>Author</h3>
@@ -13,7 +13,7 @@
 <li>한글 OCR(Optical Character Recognition)에 대한 새로운 접근 방식 제시</li>
 <li>한글은 11,172개의 서로 다른 문자를 52개 자소로 표현할 수 있는 글자로 각 문자를 자소의 조합으로 표현할 수 있다.</li>
 <li>전체 문자 수가 신경망의 용량을 압도할 수 있기 때문에 기존 OCR 인코딩 방식은 자주 사용하는 더 작은 문자 집합을 미리 정의한다.</li>
-<li><b>자소 인코딩</b>이 한글 OCR에 효율적일 뿐만 아니라 성능도 있음을 보여준다.</li>
+<li><b>자소 인코딩(grapheme encoding)</b>이 한글 OCR에 효율적일 뿐만 아니라 성능도 있음을 보여준다.</li>
 <li>여기서 제시하는 네트워크는 한글 OCR의 두 가지 주요 문제인 클래스 불균형과 대상 클래스 선택을 해결한다는 것을 보여준다.</li>
 
 <h3>1. Introduction</h3>
