@@ -3,8 +3,8 @@
 </div>
 
 <h2>Paper information</h2>
-<li>Category: Article</li>
-<li>Author: Tian Chen, Fang Yang, Xiang Gao</li>
+<li>Category : Article</li>
+<li>Author : Tian Chen, Fang Yang, Xiang Gao</li>
 <li>Received 27 Aug 2022</li>
 <li>Accpted 3 Oct 2022</li>
 <li>Published 6 Oct 2022</li>
