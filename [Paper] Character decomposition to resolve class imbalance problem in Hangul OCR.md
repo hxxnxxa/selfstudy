@@ -73,14 +73,54 @@
 <h2>4. Experiments</h2>
 <h3>4.1 Datasets</h3>
 
-<h3>4.2 Implementation Details</h3>
-<h3>4.3 Experimental Settings</h3>
-<h3>4.4 Quantitative Results</h3>
-<h3>4.5 Further Analysis</h3>
+<b>Benchmark dataset :</b> https://github.com/mandal4/HangulNet
 
+<br>
+
+<b>1) AI Hub</b>
+<li>100,000개의 한글 이미지로 구성되어있다.</li>
+<li>문자 검출을 제외한 문자 인식 성능을 평가하기 위해 총 674,110개의 텍스트 영역을 추출하였다.</li>
+<li>이 중 10,000개는 테스트 세트로 분리되며 나머지는 훈련 데이터로 사용된다.</li>
+
+<br>
+
+<b>2) MLT-h</b>
+<li>다국어 텍스트 감지 및 스크립트 식별 문제를 해결하기 위해 ICDAR에서 강력한 읽기 대회의 일부로 도입되었다.</li>
+<li>평가를 위해 MLT17 테스트 세트에서 한글 텍스트 영역만 이용하고 이름을 MLT-h로 지정한다.</li>
+<li>이 데이터셋에서 많은 주석 오류를 발견했기 때문에 노이즈가 많은 레이블을 수정했다.</li>
+
+<br>
+
+<b>3) Standard Foreign Words(SFW)</b>
+<li>해당 논문에서 제안한 모델이 한글 문자 인식에서 클래스 불균형 문제를 효과적으로 완화하는지 객관적으로 평가하기 위해 SynthTiger를 사용하여 다수의 소수 클래스를 포함하는 새로운 데이터셋을 합성했다.</li>
+<li>데이터셋은 국립국어원에 등록된 총 18,831개의 표준어를 포함하고 있으며 이는 테스트세트로만 사용된다.</li>
+
+<br>
+
+<b>4) Unseen Characters</b>
+<li>SFW 데이터셋에서 일반적인 문자 인코딩으로 표현할 수 없는 72개의 문자를 선택하여 문자당 이미지를 생성했다.</li>
+<li>그 다음 이 데이터셋에서 다양한 모델의 성능을 측정하여 보이지 않는 문자의 견고성을 비교한다.</li>
+
+<h3>4.2 Implementation Details</h3>
+<li>인코더 : 5개의 Transformer 레이어를 사용한다.</li>
+<li>자소 합성은 단순히 UTF-8 유니코드로 구성된다.</li>
+<li>학습률은 0.001, 배치크기는 300, 에포크는 800,000회로 모델을 훈련했다.</li>
+<li>입력 이미지는 32x128 크기이다.</li>
+<li>모든 실험은 두 대의 Nvidia V100에서 수행된다.</li>
+
+<h3>4.3 Experimental Settings</h3>
+<li>논문 참고</li>
+
+<h3>4.4 Quantitative Results</h3>
+<li>논문의 그림, 표 참고</li>
+
+<h3>4.5 Further Analysis</h3>
+<li>생략</li>
 
 <h2>5. Conclusion</h3>
-
+<li>본 논문은 인코더-디코더 구조의 자소 단위 한글 텍스트 인식기를 제안한다.</li>
+<li>자소 수준 분류 접근 방식은 자소를 분류하는 방법을 확인함으로써 클래스 불균형 문제가 상당히 완화된다.</li>
+<li>한글 OCR의 클래스 불균형 및 대상 클래스 선택 문제를 해결하기 위해 새로운 접근법을 제시했다.</li>
 
 <br>
 
