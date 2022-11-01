@@ -74,7 +74,6 @@
 <h3>4.1 Datasets</h3>
 
 <b>Benchmark dataset :</b> https://github.com/mandal4/HangulNet
-
 <br>
 <b>1) AI Hub</b>
 <li>100,000개의 한글 이미지로 구성되어있다.</li>
