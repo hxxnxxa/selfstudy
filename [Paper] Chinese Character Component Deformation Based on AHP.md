@@ -22,4 +22,9 @@
 <li>이는 딥러닝 기반 접근 방식이 이미지 질감과 색상 전달에 뛰어나지만 한자는 복잡한 구조를 가지고 있기 때문에 발생한다.</li>
 <li>요소(구성요소 및 획)의 위치와 형상이 조금만 변경되어도 의미나 스타일이 크게 바뀔 수 있다.</li>
 
+
+
+<br>
+
+<a href='https://kr.mathworks.com/discovery/affine-transformation.html'>Affine 변환 관련</a>
 <a href='https://www.mdpi.com/2076-3417/12/19/10059'>논문 원본 보기</a>
