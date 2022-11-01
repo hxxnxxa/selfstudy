@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Character decomposition to resolve class imbalance problem in Hangul OCR</h1>
+    <h1>Character decomposition to resolve class imbalance problem in Hangul OCR</h1>
 </div>
 
 <h2>Author</h2>
@@ -76,7 +76,6 @@
 <b>Benchmark dataset :</b> https://github.com/mandal4/HangulNet
 
 <br>
-
 <b>1) AI Hub</b>
 <li>100,000개의 한글 이미지로 구성되어있다.</li>
 <li>문자 검출을 제외한 문자 인식 성능을 평가하기 위해 총 674,110개의 텍스트 영역을 추출하였다.</li>
