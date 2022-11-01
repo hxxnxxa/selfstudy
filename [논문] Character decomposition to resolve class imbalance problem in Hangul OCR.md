@@ -2,13 +2,13 @@
 <h1>Character decomposition to resolve class imbalance problem in Hangul OCR</h1>
 </div>
 
-<h3>Author</h3>
+<h2>Author</h2>
 <li>현대자동차</li> 
 <li>김건욱, 손재민, 이강휴, 민재식</li>
 <li>Accepted 12 Aug 2022</li>
 
 
-<h3>Abstract</h3>
+<h2>Abstract</h2>
 <li>한글 OCR에서 클래스 불균형 문제를 해결하기 위한 문자 분해</li>
 <li>한글 OCR(Optical Character Recognition)에 대한 새로운 접근 방식 제시</li>
 <li>한글은 11,172개의 서로 다른 문자를 52개 자소로 표현할 수 있는 글자로 각 문자를 자소의 조합으로 표현할 수 있다.</li>
@@ -16,7 +16,7 @@
 <li><b>자소 인코딩(grapheme encoding)</b>이 한글 OCR에 효율적일 뿐만 아니라 성능도 있음을 보여준다.</li>
 <li>여기서 제시하는 네트워크는 한글 OCR의 두 가지 주요 문제인 클래스 불균형과 대상 클래스 선택을 해결한다는 것을 보여준다.</li>
 
-<h3>1. Introduction</h3>
+<h2>1. Introduction</h2>
 
 <b>1) 문제점 제시</b> 
 <li>영어와 달리 각 한글 문자는 [자음 + 모음], [자음 + 모음 + 자음] 과 같이 2개 또는 3개의 자소 조합으로 표현된다. </li>
@@ -38,7 +38,7 @@
 <li>한국어 텍스트 인식 작업에 대한 벤치마크를 구축하고 제안한 방법의 효과를 실험적으로 검증하였다.</li>
 
 
-<h3>2. Related Work</h3>
+<h2>2. Related Work</h2>
 <b>1) 기존 사용 사례</b>
 <li>번호판 인식</li> 
 <li>필기체 인식</li>
@@ -62,15 +62,17 @@
 <li>11,172자 모두 학습 : 실제 상황에서 거의 나타나지 않는 문자를 분류하기 위해 더 넓은 범위의 문자를 포함하는 많은 데이터가 필요하다.</li>
 <li>학습된 모델을 다른 도메인 간에 전송할 수 있는지 여부는 불분명하다.</li>
 
-<h3>3. Method</h3>
+<h2>3. Method</h2>
+<li>한글 장면 텍스트 인식의 경우 입력은 이미지이고 출력은 한글 텍스트이다.</li>
+<li>인코더-디코더 구조를 사용했다.</li>
+<li>
+
+<h2>4. Experiments</h2>
+<h3>4.1 Datasets</h3>
+<h3>4.2 Implementation Details</h3>
+<h3>4.3 Experimental Settings</h3>
+<h3>4.4 Quantitative Results</h3>
+<h3>4.5 Further Analysis</h3>
 
 
-<h3>4. Experiments</h3>
-<h4>4.1 Datasets</h4>
-<h4>4.2 Implementation Details</h4>
-<h4>4.3 Experimental Settings</h4>
-<h4>4.4 Quantitative Results</h4>
-<h4>4.5 Further Analysis</h4>
-
-
-<h3>5. Conclusion</h3>
+<h2>5. Conclusion</h3>
