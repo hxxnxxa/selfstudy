@@ -66,10 +66,13 @@
 <h2>3. Method</h2>
 <li>한글 장면 텍스트 인식의 경우 입력은 이미지이고 출력은 한글 텍스트이다.</li>
 <li>인코더-디코더 구조를 사용했다.</li>
-<li>
+<li>인코더 : CNN 레이어 φ 와 Transformer Unit ψ 은 문자를 정의하는 자소 간의 Context를 학습하는데 사용된다.</li>
+<li>디코더 : 주어진 Feature Map의 각 자소에 해당하는 Feature에 속하는 방법을 학습한다.</li>
+<li>자소가 존재하지 않는 예외적인 유형의 문자가 있는데 이 경우를 처리하는 방법은 [첫자음,모음] 구조와 [첫자음,모음,마지막자음]구조의 두 가지 다른 유형의 문자를 단일 구조로 통합하기 위해 "무성음"이라는 가상 클래스를 추가했다.</li>
 
 <h2>4. Experiments</h2>
 <h3>4.1 Datasets</h3>
+
 <h3>4.2 Implementation Details</h3>
 <h3>4.3 Experimental Settings</h3>
 <h3>4.4 Quantitative Results</h3>
@@ -77,3 +80,8 @@
 
 
 <h2>5. Conclusion</h3>
+
+
+<br>
+
+<a href='https://arxiv.org/abs/2208.06079'>논문 원본 보기</a>
