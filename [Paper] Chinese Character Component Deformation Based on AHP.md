@@ -26,6 +26,6 @@
 
 <br>
 
-<a href='https://kr.mathworks.com/discovery/affine-transformation.html'>Affine 변환 관련</a>
+<a href='https://kr.mathworks.com/discovery/affine-transformation.html'>Affine 변환 관련 자료 보기</a>
 <br>
 <a href='https://www.mdpi.com/2076-3417/12/19/10059'>논문 원본 보기</a>
