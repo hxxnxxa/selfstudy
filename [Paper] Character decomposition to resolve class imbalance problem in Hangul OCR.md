@@ -47,13 +47,13 @@
 
 <br>
 
-<b>2) 기존 인식 작업 :</b> 
+<b>2) 기존 인식 작업</b> 
 <li>시퀀스 예측으로 모델링했다.</li> 
 <li>시각적 특징은 ResNet과 같은 CNN backbone에서 추출되고 LSTM 및 GRU와 같은 RNN 계층에 공급되어 연결주의적 시간분류(CTC)로 훈련된다.</li>
 
 <br>
 
-<b>3) 최근 접근 방식 :</b> 
+<b>3) 최근 접근 방식</b> 
 <li>자연어 처리에서 개발된 Transformer의 Attention 매커니즘에서 영감을 받아 Image patch 간의 상호 작용을 모델링하는 ViT(Vision Transformer)와 같은 보다 강력한 backbone을 사용한다.</li>
 
 <br>
