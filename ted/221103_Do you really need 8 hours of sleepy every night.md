@@ -7,8 +7,6 @@
 
 No.1 ~ No.10
 
-<br>
-
 |No|English|Korean|
 |---|---|---|
 |1|Sleep is so important.|수면은 정말 중요하다.| 
@@ -26,8 +24,6 @@ No.1 ~ No.10
 <br>
 
 No.11 ~ No.20
-
-<br>
 
 |No|English|Korean|
 |---|---|---|
@@ -47,8 +43,6 @@ No.11 ~ No.20
 
 No.21 ~ No.30
 
-<br>
-
 |No|English|Korean|
 |---|---|---|
 |21|And I get it.|그리고 나는 그것을 얻는다.
@@ -66,8 +60,6 @@ No.21 ~ No.30
 <br>
 
 No.31 ~ No.36
-
-<br>
 
 |No|English|Korean|
 |---|---|---|
