@@ -2,7 +2,12 @@
     <h1>Do you really need 8 hours of sleep every night?</h1>
 </div>
 
-<div align='center'>
+<br>
+<br>
+
+No.1 ~ No.10
+
+<br>
 
 |No|English|Korean|
 |---|---|---|
@@ -16,6 +21,11 @@
 |8|Not enough, not quality sleep, wrong position.|충분하지 않고 양질의 수면이 아니며 잘못된 자세입니다.|
 |9|Even worse, you might find scary messaging claiming that if you're not sleeping right your life is going to be shorter, you're going to get all kinds of diseases.|설상가상으로, 잠을 제대로 자지 않으면 수명이 단축되고 모든 종류의 질병에 걸릴 것이라는 무서운 메시지를 발견할 수 있습니다.|
 |10|One of the biggest worries we have about our sleep is that we're not getting enough and that anything less than seven hours a night means that we’re doomed to bad health, everything from high blood pressure to Alzheimer’s disease.|우리가 수면에 대해 갖는 가장 큰 걱정 중 하나는 충분한 수면을 취하지 못하고 밤에 7시간 미만이면 고혈압에서 알츠하이머 병에 이르기까지 모든 것이 건강에 좋지 않다는 것을 의미합니다.|
+
+<br>
+<br>
+
+No.11 ~ No.20
 
 <br>
 
@@ -33,6 +43,11 @@
 |20|And that number is probably growing.|그리고 그 숫자는 아마도 증가하고 있을 것입니다.
 
 <br>
+<br>
+
+No.21 ~ No.30
+
+<br>
 
 |No|English|Korean|
 |---|---|---|
@@ -48,6 +63,11 @@
 |30|Or, if I wake, do I fall back asleep easily?|아니면 깨면 쉽게 다시 잠이 듭니까?|
 
 <br>
+<br>
+
+No.31 ~ No.36
+
+<br>
 
 |No|English|Korean|
 |---|---|---|
@@ -55,11 +75,10 @@
 |32|If your answers are yes to all three, you probably don't need to worry about your sleep.|세 가지 질문에 모두 예라고 답한 경우 수면에 대해 걱정할 필요가 없을 것입니다.|
 |33|And if you're struggling with your sleep, instead of buying expensive blue light filters or fancy sleep trackers, try talking with your doctor to make sure there aren't any medical conditions that need to be explored first.|그리고 수면에 어려움을 겪고 있다면 값비싼 블루라이트 필터나 멋진 수면 추적기를 구입하는 대신 의사와 먼저 상의해야 할 의학적 상태가 없는지 확인하십시오.|
 |34|Then try evidence-based recommendations laid out by the American Academy of Sleep Medicine. |그런 다음 American Academy of Sleep Medicine에서 제시한 증거 기반 권장 사항을 시도해 보십시오.|
-|35|What's really cool is that there's a highly effective therapy called cognitive behavioral therapy for insomnia, or CBT-I, It doesn’t have any medications involved. 
-|정말 멋진 것은 불면증에 대한 인지 행동 치료 또는 CBT-I라는 매우 효과적인 치료법이 있다는 것입니다. 여기에는 어떤 약물도 사용되지 않습니다.|
+|35|What's really cool is that there's a highly effective therapy called cognitive behavioral therapy for insomnia, or CBT-I, It doesn’t have any medications involved.|정말 멋진 것은 불면증에 대한 인지 행동 치료 또는 CBT-I라는 매우 효과적인 치료법이 있다는 것입니다. 여기에는 어떤 약물도 사용되지 않습니다.|
 |36|And it has a really low failure rate.|그리고 실패율이 정말 낮습니다.|
-</div>
 
+<br>
 <br>
 
 <a href='https://www.ted.com/talks/jen_gunter_do_you_really_need_8_hours_of_sleep_every_night'>원문 보기</a>
