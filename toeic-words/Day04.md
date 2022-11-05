@@ -9,16 +9,16 @@ No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
-|1|lax|
-|2|procrastinate|
-|3|combined|
-|4|accomplish|
-|5|voluntarily|
-|6|undertake|
-|7|assume|
-|8|occasionally|
-|9|employee|
-|10|assist|
+|1|lax|(행동 등이)느슨한, 규율에 못 미치는|
+|2|procrastinate|미루다, 꾸물거리다|
+|3|combined|결합된, 합동의|
+|4|accomplish|성취하다|
+|5|voluntarily|자발적으로|
+|6|undertake|(일을) 떠맡다|
+|7|assume|(증거는 없으나) 사실이라고 생각하다, (책임,역할을) 맡다|
+|8|occasionally|가끔, 때때로|
+|9|employee|직원, 고용인|
+|10|assist|돕다, 조력하다|
 
 <br>
 <br>
@@ -27,16 +27,16 @@ No.11 ~ No.20
 
 |No|English|Korean|
 |---|---|---|
-|11|satisfied|
-|12|manner|
-|13|responsible|
-|14|conduct|
-|15|adjust|
-|16|personnel|
-|17|agree|
-|18|supervise|
-|19|coworker|
-|20|direct|
+|11|satisfied|만족하는, 만족스러워하는|
+|12|manner|방식, 태도|
+|13|responsible|책임이 있는, 책임져야 할|
+|14|conduct|(업무 등을) 수행하다|
+|15|adjust|적응하다|
+|16|personnel|(집합적) 직원, 인원, 인사과|
+|17|agree|동의하다|
+|18|supervise|감독하다, 지도하다|
+|19|coworker|동료, 협력자|
+|20|direct|~에게 길을 안내하다, 가르쳐 주다|
 
 <br>
 <br>
@@ -45,16 +45,16 @@ No.21 ~ No.30
 
 |No|English|Korean|
 |---|---|---|
-|21|confidential|
-|22|assign|
-|23|leading|
-|24|formal|
-|25|remove|
-|26|collect|
-|27|coordinate|
-|28|hardly|
-|29|abstract|
-|30|directory|
+|21|confidential|기밀의, 내밀한|
+|22|assign|배정하다, 할당하다|
+|23|leading|선도적인, 일류의, 가장 중요한, 선두적인|
+|24|formal|격식을 갖춘|
+|25|remove|해임하다, 제거하다|
+|26|collect|모으다, 수집하다|
+|27|coordinate|조정하다|
+|28|hardly|거의 ~하지 않다|
+|29|abstract|추상적인, 막연한|
+|30|directory|주소록|
 
 <br>
 <br>
@@ -63,17 +63,16 @@ No.31 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
-|31|accountable|
-|32|skillfully|
-|33|exclusively|
-|34|intention|
-|35|transform|
-|36|respectful|
-|37|duplicate|
-|38|contrary|
-|39|disturbing|
-|40|engage|
-
+|31|accountable|책임이 있는|
+|32|skillfully|능숙하게, 솜씨 있게|
+|33|exclusively|독점적인, 배타적인|
+|34|intention|의지, 의향|
+|35|transform|바꾸다, 변모시키다|
+|36|respectful|정중한, 존중하는|
+|37|duplicate|사본|
+|38|contrary|반대|
+|39|disturbing|충격적인, 불안감을 주는, 방해하는|
+|40|engage|관여하다, 종사하다|
 <br>
 <br>
 
@@ -81,9 +80,9 @@ No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|
-|41|foster|
-|42|neutrality|
-|43|widely|
+|41|foster|촉진하다, 육성하다|
+|42|neutrality|중립성, 중립|
+|43|widely|널리|
 |44||
 |45||
 |46||
