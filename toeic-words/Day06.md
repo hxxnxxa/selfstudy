@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Day 01 : </h1>
+    <h1>Day 06 : 쉴 휴</h1>
 </div>
 
 <br>
@@ -9,16 +9,16 @@ No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
+|1|collection|
+|2|exhibition|
+|3|celebrity|
+|4|live|
+|5|improvise|
+|6|popular|
+|7|donation|
+|8|alumni|
+|9|present|
+|10|admission|
 
 <br>
 <br>
@@ -27,16 +27,16 @@ No.11 ~ No.20
 
 |No|English|Korean|
 |---|---|---|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
+|11|banquet|
+|12|anniversary|
+|13|required|
+|14|succeed|
+|15|rest|
+|16|fund-raising|
+|17|resume|
+|18|issue|
+|19|subscription|
+|20|appear|
 
 <br>
 <br>
@@ -45,16 +45,16 @@ No.21 ~ No.30
 
 |No|English|Korean|
 |---|---|---|
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
+|21|accompany|
+|22|edition|
+|23|specifically|
+|24|anonymous|
+|25|commit|
+|26|informative|
+|27|audience|
+|28|author|
+|29|note|
+|30|antique|
 
 <br>
 <br>
@@ -63,16 +63,16 @@ No.31 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
-|31||
-|32||
-|33||
-|34||
-|35||
-|36||
-|37||
-|38||
-|39||
-|40||
+|31|manuscript|
+|32|beneficial|
+|33|upcoming|
+|34|lend|
+|35|current|
+|36|local|
+|37|variety|
+|38|advocate|
+|39|contributor|
+|40|defy|
 
 <br>
 <br>
@@ -81,8 +81,8 @@ No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|
-|41||
-|42||
+|41|fascinating|
+|42|showing|
 |43||
 |44||
 |45||

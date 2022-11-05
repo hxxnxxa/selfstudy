@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Day 01 : </h1>
+    <h1>Day 05 : 비밀병기</h1>
 </div>
 
 <br>
@@ -9,16 +9,16 @@ No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
+|1|sophisticated|
+|2|timely|
+|3|realistically|
+|4|promptly|
+|5|accessible|
+|6|implement|
+|7|feedback|
+|8|outstanding|
+|9|inform|
+|10|replacement|
 
 <br>
 <br>
@@ -27,16 +27,16 @@ No.11 ~ No.20
 
 |No|English|Korean|
 |---|---|---|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
+|11|announcement|
+|12|department|
+|13|permanently|
+|14|fulfill|
+|15|outline|
+|16|explain|
+|17|contain|
+|18|compile|
+|19|subsequent|
+|20|overview|
 
 <br>
 <br>
@@ -45,16 +45,16 @@ No.21 ~ No.30
 
 |No|English|Korean|
 |---|---|---|
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
+|21|provider|
+|22|matter|
+|23|expertise|
+|24|demonstrate|
+|25|remainder|
+|26|essential|
+|27|divide|
+|28|major|
+|29|compliance|
+|30|clarify|
 
 <br>
 <br>
@@ -63,16 +63,16 @@ No.31 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
-|31||
-|32||
-|33||
-|34||
-|35||
-|36||
-|37||
-|38||
-|39||
-|40||
+|31|face|
+|32|follow|
+|33|aspect|
+|34|apparently|
+|35|aware|
+|36|extended|
+|37|accidentally|
+|38|advisable|
+|39|concerned|
+|40|speak|
 
 <br>
 <br>

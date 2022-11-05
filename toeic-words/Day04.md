@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Day 01 : </h1>
+    <h1>Day 04 : 업무 노하우</h1>
 </div>
 
 <br>
@@ -9,16 +9,16 @@ No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
+|1|lax|
+|2|procrastinate|
+|3|combined|
+|4|accomplish|
+|5|voluntarily|
+|6|undertake|
+|7|assume|
+|8|occasionally|
+|9|employee|
+|10|assist|
 
 <br>
 <br>
@@ -27,16 +27,16 @@ No.11 ~ No.20
 
 |No|English|Korean|
 |---|---|---|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
+|11|satisfied|
+|12|manner|
+|13|responsible|
+|14|conduct|
+|15|adjust|
+|16|personnel|
+|17|agree|
+|18|supervise|
+|19|coworker|
+|20|direct|
 
 <br>
 <br>
@@ -45,16 +45,16 @@ No.21 ~ No.30
 
 |No|English|Korean|
 |---|---|---|
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
+|21|confidential|
+|22|assign|
+|23|leading|
+|24|formal|
+|25|remove|
+|26|collect|
+|27|coordinate|
+|28|hardly|
+|29|abstract|
+|30|directory|
 
 <br>
 <br>
@@ -63,16 +63,16 @@ No.31 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
-|31||
-|32||
-|33||
-|34||
-|35||
-|36||
-|37||
-|38||
-|39||
-|40||
+|31|accountable|
+|32|skillfully|
+|33|exclusively|
+|34|intention|
+|35|transform|
+|36|respectful|
+|37|duplicate|
+|38|contrary|
+|39|disturbing|
+|40|engage|
 
 <br>
 <br>
@@ -81,9 +81,9 @@ No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|
-|41||
-|42||
-|43||
+|41|foster|
+|42|neutrality|
+|43|widely|
 |44||
 |45||
 |46||
