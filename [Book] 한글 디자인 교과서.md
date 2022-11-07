@@ -118,7 +118,7 @@
 
 <h2>출처</h2>
 
-<img src="KoreanFont-selfstudy/img/The Textbook of Hangeul Design.jpg"/>
+<img src="D:\workspace\KoreanFont-selfstudy\img\The Textbook of Hangeul Design.jpg"/>
 
 <br>
 한글 디자인 교과서
