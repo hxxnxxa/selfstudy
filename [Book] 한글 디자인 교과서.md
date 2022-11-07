@@ -115,10 +115,14 @@
 <h3></h3>
 
 
+<br>
+<br>
 
 <h2>출처</h2>
 
-<img src=".\img\The Textbook of Hangeul Design.jpg" />
+<div align='center'>
+    <img src=".\img\The Textbook of Hangeul Design.jpg" />
+</div>
 
 <br>
 한글 디자인 교과서
