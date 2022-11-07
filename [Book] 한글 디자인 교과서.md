@@ -117,7 +117,7 @@
 
 
 <h2>출처</h2>
-![한글 디자인 교과서](img/한글디자인교과서.jpg)
+![한글 디자인 교과서](img/The Textbook of Hangeul Design.jpg)
 <br>
 한글 디자인 교과서
 <br>
