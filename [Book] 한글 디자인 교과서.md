@@ -112,12 +112,13 @@
 
 <h3>4-3. 세벌식 탈네모틀 한글꼴</h3>
 <h3>4-4. 네모틀 한글꼴</h3>
-<h3></h3>6
+<h3></h3>
 
 
 
 <h2>출처</h2>
-![한글 디자인 교과서](D:\workspace\KoreanFont-selfstudy\img\한글디자인교과서.jpg)
+![한글 디자인 교과서](D:/workspace/KoreanFont-selfstudy/img/한글디자인교과서.jpg)
+<br>
 도서명 : 한글 디자인 교과서
 <br>
 안상수, 한재준, 이용제 지음
