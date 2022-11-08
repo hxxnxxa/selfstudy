@@ -8,8 +8,7 @@
 
 <h2>Author</h2>
 <li>Peng Wang, Lu Yang, Hui Li, Yuyan Deng, Chunhua Shen, Yanning Zhang</li>
-<li>중국 시안의 Northwestern Polytechnical 대학교 컴퓨터 공학부</li>
-<li>호주 Adelaide 대학교 컴퓨터 공학부</li>
+<li>중국 시안의 Northwestern Polytechnical 대학교 컴퓨터 공학부, 호주 Adelaide 대학교 컴퓨터 공학부</li>
 <li>Accepted 2 Apr 2019</li>
 
 <h2>Abstract</h2>
@@ -37,8 +36,8 @@
 <li>CTC와 Sequence-to-sequence의 학습 모델은 Scene Text Recognition에 많이 사용되는 방법이다.</li>
 
 <h3>Non-recurrent Sequence Modeling</h3>
-<li></li>
-<li></li>
+<li>최근 몇 년 동안 Sequence-to-Sequence 학습 프레임워크에서 반복구조를 제거하여 완전한 병렬 계산을 가능하게 하고 처리속도를 가속화하는 작업이 제안되었다.</li>
+<li>Gehring과 다른 연구원들은 완전히 Convolution layer로 구현된 기계 번역을 위한 Architecture를 제안했지만 이는 먼 위치간의 종속성을 학습하는데 어려움이 있었다.</li>
 <li></li>
 
 <h2>3. Model Architecture</h2>
