@@ -24,35 +24,79 @@
 <li>본 논문은 제안한 모듈과 최적화 방법을 Trainable Bag 이라고 표현한다.</li>
 <li>재매개변수화, 동적 레이블 할당이 네트워크 학습 및 Object detection 분야에서 중요해졌고 Object detection의 많은 문제를 발전시켰다.</li>
 <li>본 논문은 여기서 발견한 몇 가지 새로운 문제를 제시하고 이를 해결하기 위한 효과적인 방법을 고안한다.</li>
-<li></li>
-
 
 <h2>2. Related work</h2>
 <h3>2.1 Real-time object detectors</h3>
+<li></li>
+<li></li>
+<li></li>
+
 <h3>2.2 Model re-parameterization</h3>
+<li></li>
+<li></li>
+<li></li>
+
 <h3>2.3 Model scaling</h3>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>3. Architecture</h2>
 <h3>3.1 Extended efficient layer aggregation networks</h3>
+<li></li>
+<li></li>
+<li></li>
 <h3>3.2 Model scaling for concatenation-based models</h3>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>4. Trainable bag-of-freebies</h2>
 <h3>4.1 Planned re-parameterized convolution</h3>
+<li></li>
+<li></li>
+<li></li>
 <h3>4.2 Coarse for auxiliary and fine for lead loss</h3>
+<li></li>
+<li></li>
+<li></li>
 <h3>4.3 Other trainable bag-of-freebies</h3>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>5. Experiments</h2>
 <h3>5.1 Experimental setup</h3>
+<li></li>
+<li></li>
+<li></li>
 <h3>5.2 Baseline</h3>
+<li></li>
+<li></li>
+<li></li>
 <h3>5.3 Comparison with state-of-the-arts</h3>
+<li></li>
+<li></li>
+<li></li>
 <h3>5.4 Ablation study</h3>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>6. Conclusions</h2>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>7. Acknowledgements</h2>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>8. More comparison</h2>
-
+<li></li>
+<li></li>
+<li></li>
 
 <br>
 
