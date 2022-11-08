@@ -5,7 +5,6 @@
 <h2>Terminology(memo)</h2>
 <li>FPS : Frames Per Second, 1초에 화면이 얼마나 다시 그려지느냐의 단위, 30프레임이면 1초에 30번 화면을 다시 그리는 것</li>
 <li>AP : Average Precision, Object Detection(물체 검출 알고리즘)의 성능을 평가하는 방법 중 하나</li>
-<li></li>
 
 <h2>Author</h2>
 <li>Chien-Yao Wang, Alexey Bochkovskiy, Hong-Yuan Mark Liao</li>
@@ -48,4 +47,7 @@
 
 
 <a href='https://arxiv.org/abs/2207.02696'>논문 원본 보기</a>
+
+<br>
+
 <a href='https://bskyvision.com/465'>AP 잘 정리해놓은 블로그 글 보기</a>
