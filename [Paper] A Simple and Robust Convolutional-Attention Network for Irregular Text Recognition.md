@@ -31,7 +31,8 @@
 
 <h2>2. Related Work</h2>
 <h3>Irregular Scene Text Recognition</h3>
-<li>해당 인식 방법은 시퀀스 인식으로 모델링하고 다중 클래스 이미지 분류로 인식한다.</li>
+<li>해당 인식 방법은 시퀀스로 모델링하고 다중 클래스 이미지 분류로 인식한다.</li>
+
 <h3>Non-recurrent Sequence Modeling</h3>
 
 <h2>3. Model Architecture</h2>
