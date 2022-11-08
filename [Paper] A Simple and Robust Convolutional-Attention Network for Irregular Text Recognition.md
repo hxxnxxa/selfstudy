@@ -2,7 +2,7 @@
     <h1> A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition</h1>
 </div>
 
-본 논문은 한글이 아닌 영문으로 구성된 MS COCO 데이터셋을 사용했다는 것을 참고하세요.
+<li>본 논문은 한글이 아닌 영문으로 구성된 MS COCO 데이터셋을 사용했다는 것을 참고하세요.</li>
 
 <br>
 
