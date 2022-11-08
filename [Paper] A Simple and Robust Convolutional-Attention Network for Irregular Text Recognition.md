@@ -2,6 +2,10 @@
     <h1> A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition</h1>
 </div>
 
+본 논문은 한글이 아닌 영문으로 구성된 MS COCO 데이터셋을 사용했다는 것을 참고하세요.
+
+<br>
+
 <h2>Author</h2>
 <li>Peng Wang, Lu Yang, Hui Li, Yuyan Deng, Chunhua Shen, Yanning Zhang</li>
 <li>중국 시안의 Northwestern Polytechnical 대학교 컴퓨터 공학부</li>
@@ -26,8 +30,9 @@
 
 <h2>2. Related Work</h2>
 <h3>Irregular Scene Text Recognition</h3>
-<li>개별 문자를 먼저 detect 하여 단어로 통합하는 상향식 방식 또는 하향식 방향을 사용한다.</li>
-<li>전체적으로 다중 클래스 이미지 분류로 인식한다.</li>
+<li>불규칙한 장면에서의 텍스트 인식</li>
+<li>개별 문자를 먼저 detect 하여 단어로 통합하는 상향식 방식 또는 그 반대인 하향식 방향을 사용한다.</li>
+<li>전체적으로 다중 클래스 이미지 분류로 텍스트를 인식한다.</li>
 <li>RNN은 일반적으로 Sequential feature 학습에 사용된다.</li>
 <li>CTC와 Sequence-to-sequence의 학습 모델은 Scene Text Recognition에 많이 사용되는 방법이다.</li>
 
