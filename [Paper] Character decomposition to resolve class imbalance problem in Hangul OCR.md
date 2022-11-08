@@ -109,13 +109,13 @@
 <li>모든 실험은 두 대의 Nvidia V100에서 수행된다.</li>
 
 <h3>4.3 Experimental Settings</h3>
-<li>논문 참고</li>
+<li>논문 3페이지 참고</li>
 
 <h3>4.4 Quantitative Results</h3>
-<li>논문의 그림, 표 참고</li>
+<li>논문의 Table 1 참고</li>
 
 <h3>4.5 Further Analysis</h3>
-<li>생략</li>
+<li>논문의 Figure 4, Figure 5, Figure 6 참고</li>
 
 <h2>5. Conclusion</h3>
 <li>본 논문은 인코더-디코더 구조의 자소 단위 한글 텍스트 인식기를 제안한다.</li>
