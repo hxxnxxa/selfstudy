@@ -13,9 +13,14 @@
 <li>Accepted 6 Jul 2022</li>
 
 <h2>Abstract</h2>
+<li>5FPS~160FPS 범위에서 속도와 정확도 모두 기존 Object Detection 모델을 모두 능가한다.</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 <li></li>
 
 
 
 
-<a href='https://github.com/SSLAB-SSU-FONT/yolov7/blob/main/paper/yolov7.pdf'>논문 원본 보기</a>
+<a href='https://arxiv.org/abs/2207.02696'>논문 원본 보기</a>
