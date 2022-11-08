@@ -17,6 +17,15 @@
 <li>본 논문에서는 사전훈련된 가중치를 사용하지 않고 처음부터 MS COCO 데이터셋에서만 YOLOv7 을 훈련했다.</li>
 
 <h2>1. Introduction</h2>
+<li>컴퓨터 비전 분야에서 Real time object detection은 매우 중요한 주제이다.</li>
+<li>다중 객체 추적, 자율 주행, 로봇 공학, 의료 이미지 분석에 사용된다.</li>
+<li>일반적으로 CPU, GPU, NPU를 사용한다.</li>
+<li>Apple사의 Apple neural engine, Intel의 neural compute stick, Nvidia의 Jetson AI edge 장치들, Qualcomm의 neural processing engine, MediaTek의 AI processing unit, Kneron의 AI SoCs등이 NPU이다.</li>
+<li>본 논문은 제안한 모듈과 최적화 방법을 Trainable Bag 이라고 표현한다.</li>
+<li>재매개변수화, 동적 레이블 할당이 네트워크 학습 및 Object detection 분야에서 중요해졌고 Object detection의 많은 문제를 발전시켰다.</li>
+<li>본 논문은 여기서 발견한 몇 가지 새로운 문제를 제시하고 이를 해결하기 위한 효과적인 방법을 고안한다.</li>
+<li></li>
+
 
 <h2>2. Related work</h2>
 <h3>2.1 Real-time object detectors</h3>
