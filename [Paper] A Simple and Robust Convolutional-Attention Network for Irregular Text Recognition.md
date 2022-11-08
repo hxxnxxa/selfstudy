@@ -8,12 +8,13 @@
 
 <h2>Author</h2>
 <li>Peng Wang, Lu Yang, Hui Li, Yuyan Deng, Chunhua Shen, Yanning Zhang</li>
-<li>중국 시안의 Northwestern Polytechnical 대학교 컴퓨터 공학부, 호주 Adelaide 대학교 컴퓨터 공학부</li>
+<li>중국 시안의 Northwestern Polytechnical 대학교 컴퓨터 공학부</li>
+<li>호주 Adelaide 대학교 컴퓨터 공학부</li>
 <li>Accepted 2 Apr 2019</li>
 
 <h2>Abstract</h2>
-<li>불규칙한 텍스트 인식을 위한 간단하고 강력한 Convolution + Attention 네트워크</li>
-<li>장면 이미지에서 임의의 불규칙한 텍스트를 읽는 것은 여전히 어려운 문제다.</li>
+<li>불규칙한 텍스트 인식을 위한 Convolution + Attention 네트워크</li>
+<li>장면 이미지에서 임의의 불규칙한 텍스트를 읽는 것에 대한 문제 해결 모델을 제안한다.</li>
 <li>기존 접근 방식 : 정교한 네트워크 구조를 통합하여 모양을 처리 또는 순환 신경망 사용</li>
 <li>본 논문에서는 불규칙한 텍스트 인식을 위한 접근 방식 제안</li>
 <li>입력 이미지를 시퀀스 표현으로 변환할 필요 없이 2차원 CNN 기능을 Attention 기반 시퀀스 디코더에 직접 연결한다.</li>
@@ -33,9 +34,10 @@
 <li>개별 문자를 먼저 detect 하여 단어로 통합하는 상향식 방식 또는 그 반대인 하향식 방향을 사용한다.</li>
 <li>전체적으로 다중 클래스 이미지 분류로 텍스트를 인식한다.</li>
 <li>RNN은 일반적으로 Sequential feature 학습에 사용된다.</li>
-<li>CTC와 Sequence-to-sequence의 학습 모델은 Scene Text Recognition에 많이 사용되는 방법이다.</li>
+<li>CTC와 Sequence-to-sequence는 Scene Text Recognition에 많이 사용되는 방법이다.</li>
 
 <h3>Non-recurrent Sequence Modeling</h3>
+<li>반복되지 않는 Sequence 모델링</li>
 <li>최근 몇 년 동안 Sequence-to-Sequence 학습 프레임워크에서 반복구조를 제거하여 완전한 병렬 계산을 가능하게 하고 처리속도를 가속화하는 작업이 제안되었다.</li>
 <li>Gehring과 다른 연구원들은 완전히 Convolution layer로 구현된 기계 번역을 위한 Architecture를 제안했지만 이는 먼 위치간의 종속성을 학습하는데 어려움이 있었다.</li>
 <li></li>
