@@ -15,74 +15,38 @@
 <h2>Abstract</h2>
 <li>불규칙한 텍스트 인식을 위한 Convolution + Attention 네트워크</li>
 <li>장면 이미지에서 임의의 불규칙한 텍스트를 읽는 것에 대한 문제 해결 모델을 제안한다.</li>
-<li>기존 접근 방식 : 정교한 네트워크 구조를 통합하여 모양을 처리 또는 순환 신경망 사용</li>
-<li>본 논문에서는 불규칙한 텍스트 인식을 위한 접근 방식 제안</li>
-<li>입력 이미지를 시퀀스 표현으로 변환할 필요 없이 2차원 CNN 기능을 Attention 기반 시퀀스 디코더에 직접 연결한다.</li>
-<li>순환 모듈이 적용되지 않았기 때문에 본 논문에서 제안한 모델은 병렬로 학습이 가능</li>
+<li>기존 접근 방식: 정교한 네트워크 구조를 통합하여 다양한 모양을 처리하거나 Annotation 추가 또는 시퀀스 모델링을 위한 순환 신경망을 사용했다.</li>
+<li>본 논문이 제안한 네트워크는 2차원 CNN 기능을 Attention 기반 시퀀스 디코더에 직접 연결한다.</li>
+<li>입력 이미지를 시퀀스 표현으로 변환할 필요가 없다.</li>
+<li>RNN에 비해 3배~18배의 역전파, 2배~12배의 순전파를 달성했다.</li>
+<li>본 모델은 단어 수준 주석으로만 학습된다.</li>
+<li>Bbox가 부정확해도 인식 성능이 크게 저하되지 않았다.</li>
+<li>종단 간 텍스트 감지 및 인식 작업에 적합하다.</li>
 
 <h2>1. Introduction</h2>
-<li>본 논문이 제안한 모델은 설계상 단순하다.</li>
-<li>이미지 인코딩을 위한 CNN 모델과 맞춤형 어텐션 기반 시퀀스 디코더로만 구성된다.</li>
+<li>이미지 인코딩을 위한 CNN 모델 + 어텐션 기반 시퀀스 디코더</li>
 <li>2D 이미지 인코더와 1D 시퀀스 디코더가 직접 연결된다.</li>
-<li>RNN 모듈을 사용하지 않고 이 모델을 병렬로 학습할 수 있다.</li>
-<li>RNN 기반의 불규칙한 텍스트 인식기와 비교하여 본 모델은 역방향 패스에서 3배~18배 더 빠르고 정방향 패스에서 2배~12배 더 빠르다.</li>
-<li>이러한 가속화는 실험의 속도를 높이고 더 큰 데이터셋에서 모델이 사용될 수 있는 확장성을 갖게 된다.</li>
 
 <h2>2. Related Work</h2>
 <h3>Irregular Scene Text Recognition</h3>
-<li>불규칙한 장면에서의 텍스트 인식</li>
-<li>개별 문자를 먼저 detect 하여 단어로 통합하는 상향식 방식 또는 그 반대인 하향식 방향을 사용한다.</li>
-<li>전체적으로 다중 클래스 이미지 분류로 텍스트를 인식한다.</li>
-<li>RNN은 일반적으로 Sequential feature 학습에 사용된다.</li>
-<li>CTC와 Sequence-to-sequence는 Scene Text Recognition에 많이 사용되는 방법이다.</li>
-
 <h3>Non-recurrent Sequence Modeling</h3>
-<li>반복되지 않는 Sequence 모델링</li>
-<li>최근 몇 년 동안 Sequence-to-Sequence 학습 프레임워크에서 반복구조를 제거하여 완전한 병렬 계산을 가능하게 하고 처리속도를 가속화하는 작업이 제안되었다.</li>
-<li>Gehring과 다른 연구원들은 완전히 Convolution layer로 구현된 기계 번역을 위한 Architecture를 제안했지만 이는 먼 위치간의 종속성을 학습하는데 어려움이 있었다.</li>
-<li></li>
 
 <h2>3. Model Architecture</h2>
 <h3>3.1 Encoder</h3>
-<li></li>
-<li></li>
-<li></li>
-
 <h3>3.2 Decoder </h3>
-<li></li>
-<li></li>
-<li></li>
 
 <h2>4. Experiments</h2>
 <h3>4.1 Datasets</h3>
-<li></li>
-<li></li>
-<li></li>
-
 <h3>4.2 Implementation Details</h3>
-<li></li>
-<li></li>
-<li></li>
-
 <h3>4.3 Ablation Study</h3>
-<li></li>
-<li></li>
-<li></li>
-
 <h3>4.4 Comparison with State-of-the-art</h3>
-<li></li>
-<li></li>
-<li></li>
-
 <h3>4.5 Performance with Inaccurate Bounding-boxes</h3>
-<li></li>
-<li></li>
-<li></li>
 
 <h2>5. Conclusion</h2>
-<li></li>
-<li></li>
-<li></li>
+<li>단순한 아키텍처: CNN 인코더를 Attention 기반 디코더에 직접 연결한다.(입력 이미지를 시퀀스로 변환하지 않는다.)</li>
+<li>병렬 훈련: 비순환 네트워크</li>
+<li>단순 훈련 데이터 : 단어 수준 주석의 훈련 데이터가 필요하다.</li>
+<li>다양한 크기의 이미지의 Feature를 통합하고 가로 세로 비율을 유지하면서 입력 이미지의 크기를 조정하는 등 다양하게 확장할 수 있다.</li>
 
 <br>
 
