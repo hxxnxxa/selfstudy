@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Day 01 : </h1>
+    <h1>Day 07 : 마케팅 전략</h1>
 </div>
 
 <br>
