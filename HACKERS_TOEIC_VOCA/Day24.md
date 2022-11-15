@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+No.1 ~ No.41
 
 |No|English|Korean|
 |---|---|---|
