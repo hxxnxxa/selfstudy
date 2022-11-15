@@ -57,11 +57,11 @@
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
+|1|Fax your resume and cover letter to the above. |위 번호로 이력서와 자기소개서를 팩스로 보내주세요.|
+|2|There are several job openings at the restaurant right now. |현재 그 식당에는 일자리가 몇 개 있다. 
+|3|JX Finances officially announced the opening of its first international branch. |JX Finances 사는 첫 번째 해외 지점 개장을 공식적으로 발표했다.|
+|4|Applicants are required to submit a resume. | 지원자들은 이력서를 제출해야 한다.|
+|5|A driver`s license is a requirement of this job. |운전 면허증은 이 직업의 필요조건이다.|
 |6||
 |7||
 |8||
