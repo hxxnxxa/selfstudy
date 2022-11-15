@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|deadlock|교착 상태|
 |9|review|검토하다, 재조사하다|
 |10|contract|계약(서), 계약하다, 수축하다|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|signature|서명|
 |12|originally|원래, 처음에는|
 |13|direction|방향, 지시, 감독|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|revised|수정된, 변경한|
 |19|imperative|반드시 해야하는, 필수적인|
 |20|cooperatively|협력하여, 협조적으로|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|commission|수수료, 커미션, 위원회, (일 등을) 의뢰하다, 주문하다|
 |22|omit|빠트리다, 생략하다|
 |23|conflict|대립, 충돌, 갈등|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|objection|반대, 이의|
 |29|define|규정하다, 정의하다|
 |30|impression|인상|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|security|보안, 안전, 보호|
 |32option|선택권|
 |33|proceed|(일을) 진행하다, 진척되다|

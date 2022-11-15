@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.41
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|destination|목적지|
 |9|missing|분실된, 없어진|
 |10|locate|(~의 위치를) 찾아내다, ~을 위치시키다|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|approximately|대략|
 |12|duty|관세, 세금, 직무, 의무|
 |13|process|과정, 처리하다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|depart|출발하다|
 |19|emergency|비상시, 비상 사태|
 |20|passenger|승객|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|outgoing|(장소를) 출발하는, 떠나는, (지위를) 떠나는|
 |22|tightly|단단히, 꽉|
 |23|tour|(공장,시설 등의) 견학, 짧은 여행|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|brochure|(홍보용) 소책자, 브로셔|
 |29|involve|수반하다, 포함하다, 참여시키다|
 |30|ship|(배나 다른 운송 수단으로) 운송하다, 수송하다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|suitcase|여행 가방|
 |32|unavailable|이용할 수 없는, 구할 수 없는|
 |33|fill out/in|(서류에) 기입하다, 적어 넣다|
@@ -73,15 +49,16 @@ No.31 ~ No.40
 |38|indulge|빠지다, 탐닉하다|
 |39|proximity|가까움, 근접함|
 |40|seating|(집합적) 좌석 설비, 좌석 배열|
+|41|unlimited|무제한의|
+
 
 <br>
 <br>
 
-No.41 ~ No.50
+No.51 ~ No.60
 
 |No|English|Korean|
 |---|---|---|
-|41|unlimited|무제한의|
 |42||
 |43||
 |44||
@@ -91,14 +68,6 @@ No.41 ~ No.50
 |48||
 |49||
 |50||
-
-<br>
-<br>
-
-No.51 ~ No.60
-
-|No|English|Korean|
-|---|---|---|
 |51||
 |52||
 |53||

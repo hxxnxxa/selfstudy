@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|satisfaction|만족|
 |9|inconvenience|불편, ~에게 불편을 느끼게 하다|
 |10|complete|완료하다, 완성하다, 완료된, 완성된|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|specific|구체적인, 명확한|
 |12|return|반환하다, 반송하다|
 |13|replace|~을 교체하다, 대체하다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|commentary|해설, 설명|
 |19|notification|통지|
 |20|apologize|사과하다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|interact|소통하다, 교류하다, 상호작용을 하다|
 |22|certain|확신하는, 확실한, 특정한|
 |23|commitment|헌신, 전념|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|combine|결합시키다|
 |29|priority|우선권, 우선 사항|
 |30|observe|관찰하다, 주시하다, (규칙 등을) 준수하다, 지키다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|defective|결함이 있는|
 |32|reflect|반영하다, 나타내다|
 |33|attitude|태도, 마음가짐|
