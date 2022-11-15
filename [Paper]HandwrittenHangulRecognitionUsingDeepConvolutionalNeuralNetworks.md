@@ -13,18 +13,38 @@
 <li>Published online: 9 September 2014</li>
 
 <h2>Abstract</h2>
+<li>DNN기반의 손글씨체 인식기(HHN, Handwritten Hangul Recognition) </li>
 
 <h2>1. Introduction</h2>
+<li>심층 합성곱 신경망(DCNN)이 많은 이미지 인식 분야에서 뛰어난 성능을 보인 것처럼 DNN 또한 많은 문제 영역에서 널리 채택되었다.</li>
+<li><a href='https://ebbnflow.tistory.com/119'>DNN</a> : Deep Neural Network, 모델 내 은닉층을 2개 이상으로 하여 학습, DNN을 응용한 알고리즘이 CNN, RNN, LSTM, GRU 등</li>
 
 <h2>2. Related works</h2>
+<h3>2.1 Handwritten Hangul recognition</h3>
+<h3>2.2 Deep neural networks</h3>
 
 <h2>3. The DCNN-based Hangul recognizer</h2>
+<h3>3.1 Overall structure</h3>
+<h3>3.2 Convolution layers</h3>
+<h3>3.3 Max-pooling layers</h3>
+<h3>3.4 Classification layers</h3>
+<h3>3.5 Activation functions</h3>
 
 <h2>4. Training DCNN</h2>
+<h3>4.1 Gradient-based learning</h3>
+<h3>4.2 Error criteria</h3>
+<h3>4.3 Weight normalization</h3>
 
 <h2>5. Further improvement techniques</h2>
+<h3>5.1 Modified MSE criteria</h3>
+<h3>5.2 Initializing convolution masks by edge operators</h3>
+<h3>5.3 Elastic distortion</h3>
+<h3>5.4 GPU-based parallel processing</h3>
 
 <h2>6. Experiments</h2>
+<h3>6.1 Experimental environment</h3>
+<h3>6.2 Numeral digit recognition (MNIST)</h3>
+<h3>6.3 Hangul recognition (SERI95a and PE92)</h3>
 
 <h2>7. Conclusion</h2>
 
