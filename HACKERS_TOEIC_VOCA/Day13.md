@@ -53,7 +53,7 @@
 <br>
 <br>
 
-No.41 ~ No.50
+<b>핵심 빈출 단어</b> No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|
