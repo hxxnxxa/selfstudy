@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.43
+<b>핵심 빈출 단어</b> No.1 ~ No.43
 
 |No|English|Korean|
 |---|---|---|

@@ -129,7 +129,7 @@
 |14|send in|~을 제출하다|
 |15|tidy|단정한, 깔끔한|
 |16|trainee|훈련받는 사람|
-|RC|
+|RC |   |   |
 |17|apply for|~에 지원하다|
 |18|aptitude|재능, 소질|
 |19|be admitted to|~에 입장이 허용되다|
