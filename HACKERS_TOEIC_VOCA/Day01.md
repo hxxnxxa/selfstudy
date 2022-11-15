@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<b>핵심 빈출 예문</b> No.1 ~ No.40
+<b>핵심 빈출 예문</b> No.1 ~ No.47
 
 |No|English|Korean|
 |---|---|---|
@@ -97,34 +97,51 @@
 |38||
 |39||
 |40||
+|41||
+|42||
+|43||
+|44||
+|45||
+|46||
+|47||
 
 <br>
 <br>
 
-<b>신토익 이렇게 나온다</b>No.1 ~ No.20
+<b>토익 기초 단어</b>No.1 ~ No.20
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
+|LC|
+|1|application form|신청서|
+|2|career|직업, 경력|
+|3|completion|완료, 완성|
+|4|fair|공정한|
+|5|graduation|졸업|
+|6|in fact|사실은|
+|7|job fair|취업 박람회|
+|8|job offer|일자리 제안|
+|9|list|목록, 명단, 목록에 기입하다|
+|10|newcomer|새로온 사람, 신입사원|
+|11|part-time|파트타임의, 시간제의|
+|12|previous job|이전 직업|
+|13|secretary|비서|
+|14|send in|~을 제출하다|
+|15|tidy|단정한, 깔끔한|
+|16|trainee|훈련받는 사람|
+|RC|
+|17|apply for|~에 지원하다|
+|18|aptitude|재능, 소질|
+|19|be admitted to|~에 입장이 허용되다|
+|20|be advised to do|~할 것을 권유받다|
+|21|criteria|기준 (criterion의 복수형)|
+|22|decade|10년|
+|23|employ|고용하다|
+|24|incorporated|법인 조직의|
+|25|insufficient|불충분한|
+|26|minimum|최소한도, 최소한의|
+|27|plentiful|풍부한|
+|28|profession|직업|
 
 <br>
 <br>
