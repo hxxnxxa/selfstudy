@@ -111,8 +111,8 @@
 <b>토익 기초 단어</b> No.1 ~ No.20
 
 |No|English|Korean|
-|:---:|:---:|:---:|
-|LC|
+|---|---|---|
+|LC |   |   |
 |1|application form|신청서|
 |2|career|직업, 경력|
 |3|completion|완료, 완성|
