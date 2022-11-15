@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|shipment|선적, (화물의) 발송, 수송품, 적하물|
 |9|particularly|특히|
 |10|adequately|적절히|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|article|물품, 물건, 기사, 논설|
 |12|efficient|(기계,방법 등이) 효과적인, 능률적인|
 |13|agency|대행 회사, 대리점|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|attach|붙이다, 접착하다, 첨부하다|
 |19|formerly|이전에|
 |20|package|소포, 꾸러미|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|react|반응하다, 대응하다|
 |22|content|내용물|
 |23|convenience|편의, 편리|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|remarkable|현저한, 두드러진|
 |29|handle|취급하다, 다루다|
 |30|warehouse|창고, 저장소|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|impose|(세금 등을) 부과하다|
 |32|storage|보관소, 저장소|
 |33|detach|분리하다, 떼다|

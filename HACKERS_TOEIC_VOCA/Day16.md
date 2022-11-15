@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|cost|비용, (비용)이 들다|
 |9|selection|선택된 것, 정선품|
 |10|commercial|상업의, 상업적인, 광고|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|order|주문하다, 주문, 주문품|
 |12|provide|공급하다, 제공하다|
 |13|contact|~와 연락하다, (상업적 목적으로) 교섭하고 있는 사람|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|distribute|배포하다, 배급하다|
 |19|acquisition|인수, 구입한 것|
 |20|assure|~에게 보장하다, ~을 안심시키다, 장담하다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|subject|~의 영향을 받기 쉬운, (동의 등을) 조건으로 하는, ~에게 (~을) 받게 하다|
 |22|seek|구하다, 찾다|
 |23|satisfactory|만족스러운|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|bargain|특가품, 흥정|
 |29|stock|재고, 주식|
 |30|affordability|감당할 수 있는 비용|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|clientele|(집합적) 고객들, (변호사,건축가 등의)모든 의뢰인|
 |32|acclaim|호평, 찬사|
 |33|represent|~을 대표하다|
@@ -73,15 +49,16 @@ No.31 ~ No.40
 |38|retail|소매|
 |39|commodity|상품, 산물|
 |40|quote|견적(액), 견적을 내다|
+|41|consignment|위탁 판매|
+
 
 <br>
 <br>
 
-No.41 ~ No.50
+No.51 ~ No.60
 
 |No|English|Korean|
 |---|---|---|
-|41|consignment|위탁 판매|
 |42||
 |43||
 |44||
@@ -91,14 +68,6 @@ No.41 ~ No.50
 |48||
 |49||
 |50||
-
-<br>
-<br>
-
-No.51 ~ No.60
-
-|No|English|Korean|
-|---|---|---|
 |51||
 |52||
 |53||

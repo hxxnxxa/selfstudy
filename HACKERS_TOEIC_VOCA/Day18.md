@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|accommodate|(건물 등이) ~을 수용하다, 숙박시키다, (조건, 요구등을) 만족시키다|
 |9|available|(사물이) 이용 가능한, (사람이) 시간이 있는|
 |10|reception|환영회, (호텔, 회사, 병원 등의) 접수처|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|in advance|미리, 사전에|
 |12|refreshments|다과, 가벼운 음식물|
 |13|make|~을 하다, ~을 만들다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|cancel|취소하다|
 |19|rate|요금|
 |20|conveniently|편리하게|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|decorate|장식하다|
 |22|information|정보, 자료|
 |23|retain|유지하다, 보유하다|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|prior|전의, 먼저의|
 |29|book|예약하다|
 |30|amenity|편의 시설|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|belongings|소지품, 소유물|
 |32|entirely|완전히|
 |33|ease|완화시키다, 쉬움, 용이함|
