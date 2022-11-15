@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|outstanding|우수한, (부채 등이) 미지불된|
 |9|inform|~에게 알리다|
 |10|replacement|교체, 후임자|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|announcement|공고, 발표|
 |12|department|(조직, 기구의) 부서|
 |13|permanently|영구적으로 ,불변으로|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|compile|(자료 등을) 편집하다, 모으다|
 |19|subsequent|차후의, 그 다음의|
 |20|overview|개요, 개관|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|provider|공급자, 제공자|
 |22|matter|문제, 일|
 |23|expertise|전문지식, 전문 기술|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|major|주요한, 중대한|
 |29|compliance|(명령,법규에의) 준수|
 |30|clarify|명확하게 하다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|face|(문제 등에) 직면하다, 향하다, 마주보다|
 |32|follow|~을 따라가다, 주시하다, (분명히) 이해하다|
 |33|aspect|관점, 국면|
@@ -77,7 +53,7 @@ No.31 ~ No.40
 <br>
 <br>
 
-No.41 ~ No.50
+<b>토익 완성 단어 (토익 기초 단어)</b> No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|

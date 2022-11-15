@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|alumni|동창생들, 졸업생들|
 |9|present|제시하다, 현재의, 참석한|
 |10|admission|입장|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|banquet|연회, 만찬|
 |12|anniversary|기념일|
 |13|required|필수의, 의무적인|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|issue|(출판물의)제~호, 문제, 쟁점|
 |19|subscription|(정기 발행물의) 구독|
 |20|appear|나타나다, 출현하다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|accompany|동행하다, 동반하다|
 |22|edition|(간행물의) 판|
 |23|specifically|명확하게, 분명히, 특히, 특별히|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|author|작가, 저자|
 |29|note|주목하다, 특별히 언급하다|
 |30|antique|골동품|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|manuscript|원고|
 |32|beneficial|유익한, 이로운|
 |33|upcoming|곧 있을, 다가오는|
@@ -73,16 +49,16 @@ No.31 ~ No.40
 |38|advocate|옹호자|
 |39|contributor|기고가, 공헌자|
 |40|defy|저항하다, (설명,묘사 등이) 거의 불가능하다|
+|41|fascinating|매혹적인, 황홀한|
+|42|showing|(영화,연극의) 상영, 전시|
 
 <br>
 <br>
 
-No.41 ~ No.50
+<b>토익 완성 단어 (토익 기초 단어)</b> No.43 ~ No.50
 
 |No|English|Korean|
 |---|---|---|
-|41|fascinating|매혹적인, 황홀한|
-|42|showing|(영화,연극의) 상영, 전시|
 |43||
 |44||
 |45||

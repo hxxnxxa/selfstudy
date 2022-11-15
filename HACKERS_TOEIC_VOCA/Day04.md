@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.43
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|occasionally|가끔, 때때로|
 |9|employee|직원, 고용인|
 |10|assist|돕다, 조력하다|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|satisfied|만족하는, 만족스러워하는|
 |12|manner|방식, 태도|
 |13|responsible|책임이 있는, 책임져야 할|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|supervise|감독하다, 지도하다|
 |19|coworker|동료, 협력자|
 |20|direct|~에게 길을 안내하다, 가르쳐 주다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|confidential|기밀의, 내밀한|
 |22|assign|배정하다, 할당하다|
 |23|leading|선도적인, 일류의, 가장 중요한, 선두적인|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|hardly|거의 ~하지 않다|
 |29|abstract|추상적인, 막연한|
 |30|directory|주소록|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|accountable|책임이 있는|
 |32|skillfully|능숙하게, 솜씨 있게|
 |33|exclusively|독점적인, 배타적인|
@@ -73,16 +49,18 @@ No.31 ~ No.40
 |38|contrary|반대|
 |39|disturbing|충격적인, 불안감을 주는, 방해하는|
 |40|engage|관여하다, 종사하다|
-<br>
-<br>
-
-No.41 ~ No.50
-
-|No|English|Korean|
-|---|---|---|
 |41|foster|촉진하다, 육성하다|
 |42|neutrality|중립성, 중립|
 |43|widely|널리|
+
+
+<br>
+<br>
+
+<b>토익 완성 단어 (토익 기초 단어)</b> No.44 ~ No.60
+
+|No|English|Korean|
+|---|---|---|
 |44||
 |45||
 |46||
@@ -90,14 +68,6 @@ No.41 ~ No.50
 |48||
 |49||
 |50||
-
-<br>
-<br>
-
-No.51 ~ No.60
-
-|No|English|Korean|
-|---|---|---|
 |51||
 |52||
 |53||
