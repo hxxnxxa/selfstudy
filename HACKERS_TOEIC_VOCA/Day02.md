@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심빈출단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|adhere|지키다, 고수하다|
 |9|severely|엄격하게, 심하게|
 |10|refrain|자제하다, 삼가다|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|permission|허락, 허가|
 |12|access|이용 권한, 접근, 통로, ~에 접근하다, 도달하다|
 |13|thoroughly|철저하게, 완전히, 대단히|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|immediately|즉시, 곧|
 |19|inspection|점검, 검사|
 |20|arrangement|준비, 마련, 주선|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|procedure|절차|
 |22|negative|부정적인, 비관적인|
 |23|mandate|명령하다, 지시하다, 권한, 지시, 명령|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|standard|기준, 표준|
 |29|constant|지속적인, 끊임없이 계속하는|
 |30|act|법령, 결의서, 행위, 행동, 결정하다, 판결을 내리다, 행동하다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|compensation|보상금, 보상|
 |32|ban|금지, 금지하다|
 |33|obligation|의무, 책임|

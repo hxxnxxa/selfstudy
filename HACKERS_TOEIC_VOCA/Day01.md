@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심빈출단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|confidence|확신, 자신, 신임|
 |9|highly|매우, 대단히|
 |10|professional|전문적인, 직업의, 전문가|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|interview|면접, 면접을 보다|
 |12|hire|고용하다|
 |13|training|교육, 훈련|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|excellent|훌륭한, 탁월한|
 |19|eligible|자격이 있는, 적격의|
 |20|identify|알아보다, 확인하다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|associate|관련시키다|
 |22|condition|조건|
 |23|employment|고용|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|proficiency|숙달, 능숙|
 |29|prospective|장래의, 미래의|
 |30|appeal|관심을 끌다, 매력적이다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|specialize|~을 전공하다, 전문적으로 다루다|
 |32|apprehensive|걱정하는, 염려하는|
 |33|consultant|고문, 컨설턴트|

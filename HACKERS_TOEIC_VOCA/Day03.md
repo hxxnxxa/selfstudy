@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심빈출단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|manage|~을 경영하다, 가까스로 하다|
 |9|submit|제출하다
 |10|directly|곧바로|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|remind|~에게 상기시키다, 일꺠우다|
 |12|instruct|지시하다, 가르치다|
 |13|deadline|마감일, 마감 시간|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|deserve|~할 만하다, ~할 가치가 있다|
 |19|assignment|일, 임무, 과제|
 |20|entire|전체의|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|release|발표하다, 공개하다, 출시, 발매|
 |22|extenstion|연장, 연기, (전화의) 내선|
 |23|electronically|컴퓨터 통신망으로, 컴퓨터로|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|supervision|감독|
 |29|workshop|워크숍, 연수|
 |30|draw|끌다, 끌어당기다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|revision|수정, 개정|
 |32|reluctantly|마지못해, 꺼려하여|
 |33|acquaint|~에게 숙지시키다, 잘 알게 하다|
