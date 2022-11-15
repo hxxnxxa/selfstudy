@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.42
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|substantially|크게, 상당히|
 |9|committee|위원회|
 |10|frequently|자주, 흔히|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|capability|능력, 역량|
 |12|proceeds|수익금|
 |13|reimburse|변제하다, 상환하다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|inspector|조사관, 감독관|
 |19|preferred|선호되는, 우선의|
 |20|quarter|사분기, 4분의 1|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|interrupt|중단시키다, 방해하다|
 |22|browse|훑어보다, 둘러보다|
 |23|prompt|즉각적인, 신속한, 촉박하다, 유도하다|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|calculate|계산하다, 산출하다|
 |29|exempt|면제된, ~이 없는|
 |30|deficient|부족한, 불충분한|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|compare|비교하다|
 |32|fortunate|운 좋은|
 |33|expenditure|지출, 비용|
@@ -73,6 +49,8 @@ No.31 ~ No.40
 |38|incidental|부수적인|
 |39|inflation|물가 상승, 인플레이션, 통화 팽창|
 |40|liable|책임져야 할, ~하기 쉬운|
+|41|spend|~을 쓰다, 소비하다|
+|42|turnover|총 매상고, 거래액, 이직률|
 
 <br>
 <br>
@@ -81,8 +59,6 @@ No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|
-|41|spend|~을 쓰다, 소비하다|
-|42|turnover|총 매상고, 거래액, 이직률|
 |43||
 |44||
 |45||

@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|significantly|상당히, 두드러지게|
 |9|estimate|추정하다, 추산하다, 추정(치), 추산|
 |10|shift|옮기다, 이동하다, 변화, 교대근무|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|fee|요금, 수수료|
 |12|production|생산량, 생산|
 |13|sale|매출액, 매상고, (할인)판매|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|improvement|향상|
 |19|employer|고용주|
 |20|regular|정기적인, 단골의|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|summarize|요약하다|
 |22|typically|보통, 일반적으로|
 |23|whole|전체의, 온전한|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|achieve|달성하다, 성취하다|
 |29|assumption|추정, 산정|
 |30|share|공유하다, 함께 쓰다, (생각,경험,감정을 남과) 함께 나누다, 몫, 지분|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|encouraging|고무적인, 힘을 북돋아 주는|
 |32|incur|(손실을) 입다, (빚을) 지다|
 |33|slightly|약간|
