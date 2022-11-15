@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|aim|~을 겨누다, 목표, 목적|
 |9|strategy|전략|
 |10|indicate|보여주다, 나타내다|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|attract|끌다, 유인하다|
 |12|experience|경험, 체험, 체험하다, 경험하다|
 |13|analyze|분석하다, 분석적으로 검토하다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|means|방법, 수단|
 |19|prefer|(다른 것보다) ~을 더 좋아하다, 선호하다|
 |20|advantage|이점, 강점|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|forward|앞으로, (물건, 정보를) 보내다|
 |22|contemporary|동시대의, 현대의, 당대의|
 |23|discussion|토론, 토의|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|detect|간파하다, 탐지하다|
 |29|intensify|강화하다, 증대하다, 강렬하게 만들다|
 |30|favorably|호의적으로, 순조롭게|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|cover|포함하다, 지불하다, 덮다|
 |32|less|보다 적은, 덜한|
 |33|majority|대부분, 대다수|
@@ -77,7 +53,7 @@ No.31 ~ No.40
 <br>
 <br>
 
-No.41 ~ No.50
+<b>토익 완성 단어 (토익 기초 단어)</b> No.41 ~ No.50
 
 |No|English|Korean|
 |---|---|---|

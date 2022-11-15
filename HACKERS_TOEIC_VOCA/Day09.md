@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|boost|(경기를) 부양시키다, 상승시키다|
 |9|analyst|분석가|
 |10|potential|잠재적인, 가능성|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|pleased|만족해하는, 기쁜|
 |12|remain|계속 ~한 상태이다, 아직 ~해야 한다|
 |13|limited|제한된, 한정된|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|evidence|증거|
 |19|prospect|전망, 예상|
 |20|lead|이끌다, 지휘하다, (어떤 결과에) 이르다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|fall|(값, 가치가) 하락하다|
 |22|period|기간, 시기|
 |23|indicator|지표, 지수|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|substitute|대용품|
 |29|consequence|결과|
 |30|fairly|상당히, 꽤|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|economical|경제적인, 절약되는|
 |32|thrive|번영하다, 성공하다|
 |33|implication|영향, 밀접한 관계|

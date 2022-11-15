@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.10
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|do one`s utmost|전력을 다하다|
 |9|expand|확장하다, 확대하다|
 |10|advanced|고급의 ,진보한, 앞선|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|postpone|연기하다, 뒤로 미루다|
 |12|additional|추가의, 부가적인|
 |13|appreciate|고맙게 생각하다, 높이 평가하다, 감상하다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|like|좋아하다|
 |19|especially|특히|
 |20|closely|면밀히, 엄격히|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|reserve|예약하다, 지정하다, 보존하다|
 |22|cooperate|협력하다, 협동하다|
 |23|very|매우, 대단히, 아주|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|extremely|극도로, 대단히|
 |29|affect|~에 영향을 미치다, 불리하게 작용하다|
 |30|target|목표, 목표로 삼다|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|campaign|운동, 캠페인|
 |32|probable|개연성이 높은, 유망한|
 |33|focus|집중시키다, 집중하다|
