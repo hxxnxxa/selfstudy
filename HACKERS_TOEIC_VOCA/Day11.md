@@ -58,7 +58,7 @@
 <br>
 <br>
 
-No.51 ~ No.60
+<b>핵심 빈출 단어 (예문)</b> No.51 ~ No.60
 
 |No|English|Korean|
 |---|---|---|
