@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|notice|통지, 공고|
 |9|experienced|경험이 있는, 노련한, 능숙한|
 |10|instruction|설명, 지시|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|expert|전문가, 전문가의, 전문적인|
 |12|warranty|(품질 등의) 보증, 보증서|
 |13|refund|환불, 환불금|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|offer|제공하다, 제공, 오퍼|
 |19|carefully|주의 깊게, 신중히|
 |20|benefit|혜택, 이익, 혜택을 보다, 이익을 얻다|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|exclusively|오로지, 독점적으로|
 |22|description|(제품 등의)설명, 해석|
 |23|relatively|상대적으로|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|alter|(성질, 형상을) 고치다, 바꾸다|
 |29|apply|적용하다, 지원하다|
 |30|mutually|서로, 상호간에|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|method|방식, 방법|
 |32|acceptable|용인되는, 받아들일 수 있는, 훌륭한, 만족스러운|
 |33|desire|욕구, 갈망, 원하다, 바라다|

@@ -5,7 +5,7 @@
 <br>
 <br>
 
-No.1 ~ No.10
+<b>핵심 빈출 단어</b> No.1 ~ No.40
 
 |No|English|Korean|
 |---|---|---|
@@ -19,14 +19,6 @@ No.1 ~ No.10
 |8|processing|가공, 처리|
 |9|capacity|용량, 수용력, 역할|
 |10|assemble|(부품, 기계 등을) 조립하다, (사람을) 모으다|
-
-<br>
-<br>
-
-No.11 ~ No.20
-
-|No|English|Korean|
-|---|---|---|
 |11|utilize|이용하다, 활용하다|
 |12|place|~을 ~한 상태에 두다, (지시, 주문, 신청 등을) 하다|
 |13|fill|~을 채우다, (주문대로) 이행하다|
@@ -37,14 +29,6 @@ No.11 ~ No.20
 |18|success|성공, 성과|
 |19|attribute|(원인을) ~의 덕분으로 돌리다|
 |20|efficiency|효율, 능률|
-
-<br>
-<br>
-
-No.21 ~ No.30
-
-|No|English|Korean|
-|---|---|---|
 |21|limit|한계, 제한|
 |22|tailored|맞춤의, 주문에 따라 맞춘|
 |23|component|부품, (구성) 요소|
@@ -55,14 +39,6 @@ No.21 ~ No.30
 |28|produce|생산하다|
 |29|respectively|각각, 따로|
 |30|device|장치|
-
-<br>
-<br>
-
-No.31 ~ No.40
-
-|No|English|Korean|
-|---|---|---|
 |31|trim|(깎아) 다듬다, 없애다, 삭감하다|
 |32|launch|(신제품을) 출시하다|
 |33|separately|개별적으로, 따로따로|
