@@ -123,7 +123,7 @@
 <li>전체 다시 뜨는 방법</li>
 <li>opencv 를 이용하여 detect 된 부분의 좌표값을 캔버스에 찍어보기</li>
 <li>yolo형식의 데이터셋이 (x,y,w,h) 값이었다면 캔버스에 opencv를 이용하여 점을 찍기위해서는? </li>
-<li>한글의 특징: position 별로 구분  → 초성, 중성, 종성(c,v,f) → position 대표 글자 선정 및 boxing 처리</li>
+<li>한글의 특징: position 별로 구분 → 초성, 중성, 종성(c,v,f) → position 대표 글자 선정 및 boxing 처리</li>
 <li>고딕과 명조의 아,사,자,차,카,타,하 에 대한 label을 바꿀 필요가 있다.</li>
 
 <h3>DeepLearning을 이용한 OCR 처리</h3>
@@ -207,7 +207,7 @@
 
 <h2>2022.10.27 (목)</h2>
 <h3>초성,중성,종성 분리하는 코드 작성</h3>
-<li>무 -> position 정보를 알게 되면 -> c,v,f 분리 가능 -> 후처리</li>
+<li>무 → position 정보를 알게 되면 → c,v,f 분리 가능 → 후처리</li>
 <li>비율을 알 수 없는 경우 학습 결과 이용해서 detect 해 보고 결과 확인</li>
 
 <br>
