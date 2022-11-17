@@ -232,3 +232,38 @@
 
 <br>
 <br>
+
+<h2>2022.11.01 (화)</h2>
+<h3>논문 리뷰</h3>
+<li>Character decomposition to resolve class imbalance problem in Hangul OCR, 현대자동차, 2022 08 12</li>
+
+<br>
+<br>
+
+<h2>2022.11.09 (수)</h2>
+<h3>교재 리뷰</h3>
+<li>한글디자인교과서 1독 완료</li>
+
+<br>
+<br>
+
+<h2>2022.11.03 (목)</h2>
+<h3>논문 리뷰</h3>
+<li>딥러닝을 이용한 한글 OCR 정확도 향상에 대한 연구, 경북대학교 컴퓨터학부, 2018 05 31</li>
+
+<br>
+<br>
+
+<h2>2022.11.07 (월)</h2>
+<h3>논문 리뷰</h3>
+<li>Simple and Robust Convolutional-Attention Network for Irregular Text Recognition, 중국 및 호주의 대학교 컴퓨터공학부, 2019 04 02</li>
+
+<br>
+<br>
+
+<h2>2022.11.17 (목)</h2>
+<h3>논문 리뷰</h3>
+<li>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors, 대만의 정보과학연구소, 2022 07 06</li>
+
+<br>
+<br>
