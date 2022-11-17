@@ -57,7 +57,7 @@
 
 |No|English|Korean|
 |---|---|---|
-|1|All our employees are accustomed to using the new design software.|모든 짖ㄱ원들은 새로운 디자인 소프트웨어를 사용하는 데 익숙하다.|
+|1|All our employees are accustomed to using the new design software.|모든 직원들은 새로운 디자인 소프트웨어를 사용하는 데 익숙하다.|
 |2|Delroy Lee heads a multinational telecommunications corporation based in Virginia.|Derloy Lee는 버지니아 주에 본사가 있는 다국적 통신회사를 이끈다.|
 |3|Although Ms.Jenkins is a demanding supervisor, she has a reputation for being fair.|비록 Ms.Jenkins는 요구가 많은 감독관이지만, 공정하다는 평판을 갖고 있다.|
 |4|Regular social activities can improve cooperation among colleagues.|정기적인 사교 활동은 동료들 간의 협력을 증진할 수 있다.|
