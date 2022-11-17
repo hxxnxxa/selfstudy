@@ -242,7 +242,7 @@
 
 <h2>2022.11.09 (수)</h2>
 <h3>교재 리뷰</h3>
-<li>한글디자인교과서 1독 완료</li>
+<li>한글디자인교과서, 안상수, 2009 09 01</li>
 
 <br>
 <br>
@@ -261,9 +261,9 @@
 <br>
 <br>
 
-<h2>2022.11.17 (목)</h2>
-<h3>논문 리뷰</h3>
-<li>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors, 대만의 정보과학연구소, 2022 07 06</li>
+<h2>2022.11.18 (금)</h2>
+<h3>교재 리뷰</h3>
+<li>한글의 글자표현, 김진평, 2019.03.01</li>
 
 <br>
 <br>
