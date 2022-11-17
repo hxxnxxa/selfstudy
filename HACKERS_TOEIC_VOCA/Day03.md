@@ -98,7 +98,7 @@
 |39|The training program acquaints new employees with company procedures.|그 교육 프로그램은 신입 사원들에게 회사 절차를 숙지시킨다.|
 |40|The secretary urgently conveyed the message to the director.|그 비서는 메시지를 이사에게 급히 전달했다.|
 |41|Please check your computer regularly for disk errors.|디스크 오류 여부를 확인하기 위해 컴퓨터를 정기적으로 검사하십시오.|
-|42|Click this lijnk to check for the latest updates.|최신 업데이트를 확인하려면 이 링크를 클릭하세요.|
+|42|Click this link to check for the latest updates.|최신 업데이트를 확인하려면 이 링크를 클릭하세요.|
 |43|The company headquarters is located in London.|회사 본부는 런던에 위치해 있다.|
 |44|Old accounting documents are filed in the storage room.|오래된 회계 서류는 창고에 정리되어 있다.|
 |45|The department filed an insurance claim for the water damage in the conference room.|그 부서는 회의실의 수해에 대한 보험을 청구했다.|
