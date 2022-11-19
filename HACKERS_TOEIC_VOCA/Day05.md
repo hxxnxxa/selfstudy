@@ -58,7 +58,7 @@
 
 |No|English|Korean|
 |---|---|---|
-|1||
+|1|A sophisticated surveilance system was installed.|정교한 보안 시스템이 설치되었다.|
 |2||
 |3||
 |4||
