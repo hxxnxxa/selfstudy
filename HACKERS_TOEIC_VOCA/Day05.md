@@ -59,7 +59,7 @@
 |No|English|Korean|
 |---|---|---|
 |1|A sophisticated surveilance system was installed.|정교한 보안 시스템이 설치되었다.|
-|2||
+|2|The decorator exhibited a sophisticated taste in art.|그 실내 장식기는 예술에 대한 세련된 취향을 보였다.|
 |3||
 |4||
 |5||
