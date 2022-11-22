@@ -1,3 +1,5 @@
+reviewed 2022/11/01 (화)
+
 <div align='center'>
     <h1>Character decomposition to resolve class imbalance problem in Hangul OCR</h1>
 </div>

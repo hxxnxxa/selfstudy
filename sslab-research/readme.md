@@ -261,9 +261,10 @@
 <br>
 <br>
 
-<h2>2022.11.21 (월)</h2>
+<h2>2022.11.22 (화)</h2>
 <h3>교재 리뷰</h3>
 <li>한글의 글자표현, 김진평, 2019.03.01</li>
+<li>Stroke-based Online Hangul/Korean Character Recognition, 연세대학교 컴퓨터과학과, 2009</li>
 
 <br>
 <br>
