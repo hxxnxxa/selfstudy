@@ -13,8 +13,8 @@ import typer
 
 def font2img(ttf_path:str, uni: str, new_path: str): 
 
-    font_path = "D:/workspace/SF-GNN/codeHistory/fonts/" + ttf_path #1_Gothic/08SeoulNamsanB
-    tgt_path  = "D:/workspace/SF-GNN/codeHistory/fontImage/origin/" + new_path #08SeoulNamsanB
+    font_path = ttf_path #1_Gothic/08SeoulNamsanB
+    tgt_path  = new_path #08SeoulNamsanB
     os.makedirs(tgt_path, exist_ok=True)
 
     unicodeChars = chr(int(uni, 16))
@@ -30,9 +30,7 @@ def font2img(ttf_path:str, uni: str, new_path: str):
     
     theImage = Image.new('RGB', (256,256),color='white')
     theDrawPad = ImageDraw.Draw(theImage)
-    #theDrawPad.text(((w-x)/2, (h-y)/2), unicodeChars, font=font, fill='black')
-    #theDrawPad.text(((w-x)/2, -20), unicodeChars, font=font, fill='black')
-    theDrawPad.text((70,0), unicodeChars, font=font, fill='black') # Aunt-freedom 센터값
+    theDrawPad.text(((w-x)/2, (h-y)/2), unicodeChars, font=font, fill='black')
 
     msg = tgt_path + "/" + new_path + "_" + uni + "_origin"
     print(msg)

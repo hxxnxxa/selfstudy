@@ -1,5 +1,3 @@
-# ttf 폰트 적용
-
 import sys
 import os
 import numpy as np
@@ -13,10 +11,9 @@ import typer
 
 # example : python font2img_3.py 12_Noto_Sans_KR/NotoSansKR-Black AD81 NotoSansKR-Black
 
-#def font2img(ttf_path:str, uni: str, new_path: str): 
 def font2img(ttf_path:str, uni: str, new_path: str):
-    font_path = otf_path #12_Noto_Sans_KR/NotoSansKR-Black
-    tgt_path  = new_path #NotoSansKR-Black
+    font_path = otf_path
+    tgt_path  = new_path
     os.makedirs(tgt_path, exist_ok=True)
 
     unicodeChars = chr(int(uni, 16))
@@ -32,7 +29,7 @@ def font2img(ttf_path:str, uni: str, new_path: str):
     theImage = Image.new('RGB', (256,256),color='white')
     theDrawPad = ImageDraw.Draw(theImage)
 
-    theDrawPad.text(((w-x)/2,-20), unicodeChars, font=font, fill='black') #폰트 타입이 OTF인 경우에 센터값 맞추려면 이 코드 이용
+    theDrawPad.text(((w-x)/2,-20), unicodeChars, font=font, fill='black')
 
     msg = tgt_path + "/" + new_path + "_" + uni + "_origin"
     print(msg)
