@@ -16,8 +16,6 @@ python tools/font2img_otf.py 12_Noto_Sans_KR/NotoSansKR-Black AD81 NotoSansKR-Bl
 
 ```
 
-<br>
-
 <h2>name-modify</h2>
 
 ```python
@@ -25,8 +23,6 @@ python tools/font2img_otf.py 12_Noto_Sans_KR/NotoSansKR-Black AD81 NotoSansKR-Bl
 python tools/name-modify-cmd.py tgtPath originalName newName
 
 ```
-
-<br>
 
 <h2>bbox-check</h2>
 
@@ -36,8 +32,6 @@ python tools/bbox-check-cmd.py path
 
 ```
 
-<br>
-
 <h2>center-calculator</h2>
 
 ```python
@@ -45,5 +39,4 @@ python tools/bbox-check-cmd.py path
 python tools/center-calculator.py path 
 
 ```
-
 <br>
