@@ -32,4 +32,18 @@ python tools/name-modify-cmd.py tgtPath originalName newName
 
 ```python 
 
-python tools/bbox_check_cmd
+python tools/bbox-check-cmd.py path 
+
+```
+
+<br>
+
+<h2>center-calculator</h2>
+
+```python
+
+python tools/center-calculator.py path 
+
+```
+
+<br>
