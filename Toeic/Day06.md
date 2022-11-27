@@ -65,7 +65,7 @@
 |3|The gallery hosted an exhibition of urban scenic photographs.|그 화랑은 도시 풍경 사진 전시회를 주최했다.|
 |4|Many celebrities attended the city`s summer park festival.|많은 유명 인사들이 그 도시의 여름 공원 축제에 참석했다.|
 |5|Finnegan's cafe hosts a live music performance every Saturday.|Finnegan's 카페는 매주 토요일마다 라이브 음악 공연을 주최한다.|
-|6||
+|6|The performers improvised a jazz melody.|연주자들은 재즈 멜로디를 즉흥적으로 연주했다.|
 |7||
 |8||
 |9||
