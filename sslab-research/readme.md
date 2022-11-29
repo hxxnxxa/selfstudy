@@ -254,16 +254,10 @@
 <br>
 <br>
 
-<h2>2022.11.07 (월)</h2>
-<h3>논문 리뷰</h3>
-<li>Simple and Robust Convolutional-Attention Network for Irregular Text Recognition, 중국 및 호주의 대학교 컴퓨터공학부, 2019 04 02</li>
-
-<br>
-<br>
-
 <h2>2022.11.29 (화)</h2>
 <h3>교재 리뷰</h3>
 <li>한글의 글자표현, 김진평, 2019.03.01</li>
+<li>A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition, 중국 및 호주의 대학 컴퓨터공학부, 2019 04 02</li>
 
 <br>
 <br>
