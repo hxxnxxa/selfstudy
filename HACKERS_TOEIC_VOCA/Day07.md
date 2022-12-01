@@ -49,55 +49,62 @@
 |38|mounting|증가하는, 오르는|
 |39|reflective|반영하는
 
-
 <br>
 <br>
 
-
-<b>핵심 빈출 예문</b> No.1 ~ No.40
+<b>핵심 빈출 예문</b> No.1 ~ No.49
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-|31||
-|32||
-|33||
-|34||
-|35||
-|36||
-|37||
-|38||
-|39||
-|40||
+|1|Customer surveys help to improve product quality.|고객 설문 조사는 제품의 품질을 향상시키는 데 도움이 된다.|
+|2|The latest market analysis shows an increase in used car purchases.|최근의 시장 분석은 중고차 구매의 증가를 보여 준다.|
+|3|Almost all survey respondents rated the product highly.|거의 모든 설문 응답자가 제품을 높이 평가했다.|
+|4|Panatronic has a virtual monopoly on the manufacture of digital recorders.|Panatronic사는 사실상 디지털 녹음기 제조 독점권을 가지고 있다.|
+|5|Competition in the game software market has increased.|게임 소프트웨어 시장에서의 경쟁이 증가했다.|
+|6|The factory has consistently provided the highest grade products.|그 공장은 항상 최상급 제품을 공급해 왔다.|
+|7|The company could not meet the increased demand for mobile devices.|그 회사는 늘어난 휴대 기기 수요를 충족시킬 수 없었다.|
+|8|Mr.Hawkesby demanded that the clause be removed.|Mr.Hawkesby는 그 조항을 삭제하라고 요구했다.|
+|9|Sun Manufacturing does its utmost to ensure the quality of its products.|Sun Manufacturing사는 제품의 품질을 보장하기 위해 전력을 다한다.|
+|10|Brahe Optics has expanded its marketing and sales division.|Brahe Optics사는 마케팅 영업 부서를 확장했다.|
+|11|Modern cell phones are very advanced compared to those from a decade ago.|요즘 휴대 전화는 10년 전의 것에 비해 매우 고급이다.|
+|12|The company is already in the advanced stages of the product design.|그 회사는 이미 제품 디자인에 있어 진보한 단계에 있다.|
+|13|Organizers postponed the conference on management strategies because of bad weather.|주최 측은 악천후 때문에 경영 전략에 관한 회의를 연기했다.|
+|14|Several investors decided to purchase additional stocks.|몇몇 투자자들은 추가 주식을 매입하기로 결정했다.|
+|15|Benson Co. appreciates your continued business.|Benson사는 귀하의 지속적인 거래를 고맙게 생각합니다.|
+|16|The supervisor appreciates your continued business.|Benson사는 귀하의 지속적인 거래를 고맙게 생각합니다.|
+|17|The gallery was filled with people appreciating the masterpieces.|그 미술관은 명작을 감상하는 사람들로 만원이었다.|
+|18|The salesclerk offered to provide a demonstration on how to use the photocopier.|그 판매원은 복사기 사용법에 대한 설명을 제공하겠다고 나섰다.|
+|19|The short software demonstration showed how much money the business could save.|짧은 소프트웨어 시연은 회사가 얼마나 많은 돈을 절약할 수 있는지 보여 주었다.|
+|20|The acquisitions department buys all of the office equipment.|구매부에서 모든 사무실 비품을 산다.|
+|21|Research and Development will examine food consumption trends in foreign markets.|연구 개발 부서가 해외 시장에서의 식품 소비 경향을 조사할 것이다.|
+|22|An effective advertising campaign is one that people remember for a long time.|효과적인 광고 캠페인은 사람들이 오랫동안 기억하는 것이다.|
+|23|Increased tax deductions will be effective as of June 1.|늘어난 소득 공제가 6월 1일부로 발효될 것이다.|
+|24|Consumers like products that look high-end but are less expensive.|소비자들은 최고급으로 보이지만 덜 비싼 제품을 좋아한다.|
+|25|Manufacturers of large vehicles are facing an especially difficult year for sales.|대형 차량 제조업체들은 판매에 있어 특히 힘든 한 해를 맞고 있다.|
+|26|Marketing departments monitor the latest trends closely.|마케팅 부서는 최신 경향을 면밀히 관찰한다.|
+|27|The secretary will reserve hotel rooms for anyone going to the convention.|비서가 대회에 참석하는 사람들을 위해 호텔 방을 예약할 것이다.|
+|28|Some funds have been reserved to pay for the banquet.|일부 자금은 만찬 대금을 지불하기 위해 보존되었다.|
+|29|The two companies cooperated on developing the promotional campaign for the new spring collection.|두 회사는 새로운 봄 컬렉션 홍보 캠페인을 개발하는 것에 대해 협력했다.|
+|30|The survey was very effective at identifying the target market.|그 설문 조사는 표적 시장을 찾는 데 매우 효과적이었다.|
+|31|The Barkely Company achieved high sales growth for the third consecutive year.|Barkley사는 3년 연속으로 고매출 성장을 달성했다.|
+|32|The expectation is that costs will be cut.|비용이 감소될 것으로 예상된다.|
+|33|New regulations are publicized on the government Web site.|새로운 규정들은 정부 웹사이트에 공표된다.|
+|34|The hospital publicized its newly built wing to attract more patients.|그 병원은 더 많은 환자들을 끌어들이기 위해 새로 지은 병동을 광고했다.|
+|35|We used mass-mailing methods to raise awareness of our brand.|우리는 자사 브랜드에 대한 인식을 높이기 위해 대량 메일 발송법을 이용했다.|
+|36|The president raised questions about the quality of the new product.|회장이 신상품의 품질에 대해 의문을 제기했다.|
+|37|Internet service providers struggle to survive in today's extremely competitive market.|인터넷 서비스 사업자들은 오늘날의 극도로 경쟁적인 시장에서 살아남기 위해 분투한다.|
+|38|The frozen-food industry can affect the canned goods market.|냉동식품 산업이 통조림 시장에 영향을 미칠 수 있다.|
+|39|Sales for this quarter are right on target.|이번 분기 매출은 정확히 목표에 이르렀다.|
+|40|The advertisement targets the age range of 25-40 years.|그 광고는 25세부터 40세까지의 연령대를 목표로 삼는다.|
+|41|||
+|42|||
+|43|||
+|44|||
+|45|||
+|46|||
+|47|||
+|48|||
+|49|||
 
 <br>
 <br>
