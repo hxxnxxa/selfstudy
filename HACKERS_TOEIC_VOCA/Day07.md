@@ -96,43 +96,52 @@
 |38|The frozen-food industry can affect the canned goods market.|냉동식품 산업이 통조림 시장에 영향을 미칠 수 있다.|
 |39|Sales for this quarter are right on target.|이번 분기 매출은 정확히 목표에 이르렀다.|
 |40|The advertisement targets the age range of 25-40 years.|그 광고는 25세부터 40세까지의 연령대를 목표로 삼는다.|
-|41|||
-|42|||
-|43|||
-|44|||
-|45|||
-|46|||
-|47|||
-|48|||
-|49|||
+|41|The mayor's election campaign focused on his strong record in office.|그 시장의 선거 운동은 재직 중 그의 눈부신 업적에 초점을 맞추었다.|
+|42|One of the probable causes for low sales was the lack of promotion.|낮은 매출의 개연성 높은 원인 중 하나는 홍보의 부족이었다.|
+|43|Management decided to focus resources on expanding its business.|경영진은 사업을 확장하는 데 자원을 집중하기로 결정했다.|
+|44|The sugarcane industry is vulnerable to seasonal variations.|사탕수수 산업은 계절에 따른 차이에 민감하다.|
+|45|Price fluctuations had a major impact on the market.|물가 변동은 시장에 큰 영향을 주었다.|
+|46|Online advertising is cheaper in comparison with television.|온라인 광고는 텔레비전 광고와 비교해 볼 때 더 저렴하다.|
+|47|Severe deficits can occur when there is a huge gap between exports and imports.|수출과 수입 간에 큰 격차가 있을 때 극심한 적자가 발생할 수 있다.|
+|48|There is mounting pressure from management to increase productivity.|경영진으로부터 생산성을 증대하라는 압박이 증가하고 있다.|
+|49|Shrinking profits are reflective of the current state of the company.|줄어드는 수익이 회사의 현재 상태를 반영한다.|
 
 <br>
 <br>
 
-<b>토익 기초 단어</b>No.1 ~ No.20
+<b>토익 기초 단어</b>No.1 ~ No.27
 
 |No|English|Korean|
 |---|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
+|LC|||
+|1|after all|결국|
+|2|answer the phone|전화를 받다|
+|3|as it is|있는 그대로|
+|4|be based on|~에 근거하다|
+|5|be familiar with|~을 잘 알고 있다, ~에 익숙하다|
+|6|concrete|구체적인|
+|7|conflict with|~과 상충되다, 충돌하다|
+|8|on display|전시된, 진열된|
+|9|shadow|그림자, 그늘|
+|RC|||
+|10|around the world|전 세계에|
+|11|array|진열, 배열|
+|12|attempt|시도하다, 시도|
+|13|audiovisual|시청각의|
+|14|avoid|방지하다|
+|15|based|~에 기반을 둔|
+|16|cinema|영화관, 극장|
+|17|competitive|경쟁을 하는, 경쟁력 있는|
+|18|energy drink|에너지 음료|
+|19|find out|찾아내다|
+|20|informal|격식에 얽매이지 않는, 편안한|
+|21|marketplace|시장|
+|22|practice|연습, 관행|
+|23|public relations (PR) department|홍보부|
+|24|sales|판매의|
+|25|strict|엄격한|
+|26|tool|도구|
+|27|typical|전형적인, 대표적인|
 
 <br>
 <br>
