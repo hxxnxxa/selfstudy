@@ -58,7 +58,7 @@
 
 |No|English|Korean|
 |---|---|---|
-|1||
+|1|Profits are down this year as sales have been stagnant.|판매가 침체되면서 올해 수익이 감소했다.|
 |2||
 |3||
 |4||
