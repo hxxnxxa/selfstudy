@@ -1,0 +1,12 @@
+step06_jQueryAjax  -- Dynamic Web Project
+                      context root : edu
+                      content directory : WebContent
+      src
+
+      WebContent
+       ajax01.html  / ajaxResult1.jsp
+       ajax02.html  / ajaxResult2.jsp
+       ajax03.html  / ajaxResult3.jsp
+       ajax04.html  / ajaxResult4.js    (javascript파일)
+       ajax05.html  ===> serialize()함수:queryString을 만듬
+        

@@ -1,0 +1,60 @@
+Ajax는 반드시 웹서버(tomcat, node.js, iis, .....)가 설치 되있어야 함
+============================================================
+step05_Ajax   -- Dynamic Web Project
+                       context root : edu
+                       content directory : WebContent
+    src
+
+    WebContent
+     test01
+        simple.html
+        SimpleAjaxApp.html
+     test02
+     	hello.jsp
+     	helloApp.html  
+     test03
+        paramGet.html
+        paramGet.js
+        result.jsp
+     test04
+        paramPost.html
+        paramPost.js
+        result.jsp 
+     test05
+        sumTest.html
+        sumTest.js
+        sumTest.jsp
+              문제.txt
+     test06
+        xmlTest1.html
+        xmlTest2.html
+        sample.xml   
+    test07
+        jsonTest.html
+        sample.json   --복사
+    test08
+        newTest.html
+        newsjson.jsp  --복사 
+    test09
+        loginTest.html
+        login.jsp
+    test10
+        duke_luau.png --복사
+        imageTest.html
+     	
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+     	 
+       
